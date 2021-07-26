@@ -1,2 +1,3 @@
 # Alexa-siri
-Why wasting money on alexa /google home if u can program one?
+You can use it as alternative to Alexa/Google home.
+Its python based source code
