@@ -1,3 +1,17 @@
 # Alexa-siri
-You can use it as alternative to Alexa/Google home.
-Its python based source code
+Build an Artificial Assistant
+
+Libraries used:
+
+Text to speech pip install pyttsx3
+
+For advance control on browser pip install pywhatkit
+
+To get wikipedia data pip install wikipedia
+
+To get funny jokes pip install pyjokes
+
+
+
+
+Credit: programminghero
